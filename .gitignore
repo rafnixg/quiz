@@ -2,3 +2,5 @@ node_modules
 npm-debug.log
 quiz.sublime-project
 quiz.sublime-workspace
+quiz.sqlite
+.env
